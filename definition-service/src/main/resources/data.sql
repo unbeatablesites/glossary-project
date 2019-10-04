@@ -1,0 +1,10 @@
+INSERT INTO definition (id, term, definition)  values (1001, 'goat', 'greatest of all time');
+INSERT INTO definition (id, term, definition)  values (1002, 'goat', 'a hardy domesticated ruminant animal that has backward curving horns');
+INSERT INTO definition (id, term, definition)  values (1003, 'goat', 'the person that screwed the whole thing up');
+INSERT INTO definition (id, term, definition)  values (1004, 'yeet', 'To quickly toss');
+INSERT INTO definition (id, term, definition)  values (1005, 'gucci', 'Good; Pleasing');
+INSERT INTO definition (id, term, definition)  values (1006, 'FOMO', 'Fear of missing out');
+INSERT INTO definition (id, term, definition)  values (1007, 'I''m dead', 'I thought that was very funny');
+INSERT INTO definition (id, term, definition)  values (1008, 'I''m dead', 'I am no longer among the living; I am deceeased; (seldom truthfully said)');
+INSERT INTO definition (id, term, definition)  values (1009, 'extra', 'better than normal; better than expected');
+INSERT INTO definition (id, term, definition)  values (1010, 'yaaaas', 'yes');
